@@ -446,7 +446,7 @@ const HomePage = () => {
                         className="grid md:grid-cols-2 gap-16 items-center"
                     >
                         <motion.div variants={fadeInUp}>
-                            <h2 className="text-4xl md:text-5xl font-bold mb-6" style={{ color: "black" }}>
+                            <h2 className="text-4xl text-center md:text-start md:text-5xl font-bold mb-6" style={{ color: "black" }}>
                                 About Us
                             </h2>
                             <div className="space-y-4 text-lg leading-relaxed" style={{ color: "black" }}>
